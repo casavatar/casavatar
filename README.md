@@ -60,6 +60,6 @@ I’m open for freelance collaborations, consulting, and long-term projects.
 If you need help scaling your data systems or automating critical processes, let’s connect.
 
 - ✉️ Email: **ing.ekastel@gmail.com**  
-- 💼 LinkedIn: [https://www.linkedin.com/in/eduardo-castellanos-466a5871/]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/eduardo-castellanos-466a5871/))  
+- 💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/eduardo-castellanos-466a5871/))  
 
 ---
