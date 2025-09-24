@@ -16,7 +16,6 @@ I specialize in **data engineering, pipelines, and cloud architectures** — del
 - Data Lake / Lakehouse design (batch & near-real time)  
 - NoSQL (MongoDB) & Hybrid Architectures  
 - Advanced SQL (query tuning, index optimization)  
-- Regulatory & strategic reporting automation (RR038, etc.)  
 - Technical consulting & system optimization  
 
 ---
