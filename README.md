@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eduardo “casavatar” Castellanos
+# 👋 Hi, I'm Eduardo Castellanos
 
 **Senior Data Engineer & Freelance Developer | 11+ Years of Experience in Finance & Big Data**
 
